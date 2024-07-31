@@ -1,0 +1,7 @@
+langchain==0.2.11
+langchain_core==0.2.26
+langchain_groq==0.1.8
+langchain_ollama==0.1.0
+pynput==1.7.7
+python-dotenv==1.0.1
+whisper_live==0.5.0
