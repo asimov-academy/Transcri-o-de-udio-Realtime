@@ -4,12 +4,12 @@ Este projeto é um chatbot de transcrição de áudio que usa Whisper para trans
 
 # Requisitos
 
-•	Python 3.6+
-•	pynput para interação com o teclado
-•	whisper_live para transcrição de áudio. Para mais instruções sobre como rodar o servidor de transcrição, [clique aqui](https://github.com/collabora/WhisperLive).
-•	langchain, langchain_groq, langchain_ollama para interação com o modelo de linguagem
-•	python-dotenv para gerenciamento de variáveis de ambiente
-•   Ollama instalado no seu computador (caso queira rodar modelos locais).
+- `Python 3.6+`
+- `pynput` para interação com o teclado
+- `whisper_live` para transcrição de áudio. Para mais instruções sobre como rodar o servidor de transcrição, [clique aqui](https://github.com/collabora/WhisperLive).
+- `langchain`, `langchain_groq`, `langchain_ollama` para interação com o modelo de linguagem
+- `python-dotenv` para gerenciamento de variáveis de ambiente
+- `Ollama` instalado no seu computador (caso queira rodar modelos locais).
 
 # Instalação
 
